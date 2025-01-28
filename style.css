@@ -16,6 +16,7 @@ text-align: center;
 
 @media screen and (max-width: 769px) {
     header {background-image: url(/images/bg-header-mobile.png);}
+    body {overflow-x: hidden;}
 }
 
 header img {margin: 10px auto;
